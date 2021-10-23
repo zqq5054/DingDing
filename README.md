@@ -6,3 +6,5 @@ App将在上班时间前十分钟和下班时间自动打开钉钉(手机仍需�
 
 ![image](screenshoot/24798885f85e55695fb8047a8c60c0c.jpg)
 ![image](screenshoot/b8b1fbe20b6835928607808b5b68ffe.jpg)
+
+[下载体验](apk/app-debug.apk)
