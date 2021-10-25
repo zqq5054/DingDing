@@ -12,7 +12,8 @@ By the way,实行大小周且不给工资的公司不是好公司，金牌厨柜
 
 ![image](screenshoot/b8b1fbe20b6835928607808b5b68ffe.jpg)
 
-以下是miui设置
+
+<br>以下是miui设置<br>
 
 
 ![image](screenshoot/24798885f85e55695fb8047a8c60c0c.jpg)
