@@ -5,7 +5,7 @@ App将在上班时间前十分钟和下班时间自动打开钉钉。<br><br>
 请在App权限管理中打开后台弹出界面(MIUI)。<br><br>
 华为手机需要应用和服务-应用启动关系-关闭自动管理。<br><br>
 
-By the way,实行大小周且不给工资的公司不是好公司，金牌厨柜的公司和其关联公司目前是这样的，大家千万不要去。<br><br>
+By the way,实行大小周且不给工资的公司不是好公司，金牌厨柜和其关联公司目前是这样的，大家千万不要去。<br><br>
 
 
 [下载体验](https://raw.githubusercontent.com/zqq5054/DingDing/master/apk/app-debug.apk)
